@@ -1,6 +1,16 @@
 # visual_to_screen
 Disseny en moviment
 
-ref_01: https://natureofcode.com/cellular-automata/#example-73-object-oriented-game-of-life He elegido este referente de nature code porque creo que puedo jugar con las formas y los colores en mi composición de una forma que puede quedar bastante bien cogiendo este ejemplo de referencia. Además tiene el código, algo que puede facilitarme a la hora de hacerlo y a partir de ahi desarrollar mi propuesta para Animalcoi.
+idea: CONTAGIO, sistema de transformación. Explorar cómo una pequeña alteración puede desencadenar una transformación colectiva. A partir de un elemento inicial, se genera una reacción que se propaga por un sistema de unidades independientes. Estas comienzan a activarse, multiplicarse, conectarse y desaparecer, creando patrones y composiciones que evolucionan constantemente. La propuesta busca representar visualmente cómo una acción individual puede modificar el comportamiento de todo un conjunto.
 
-ref_02: https://natureofcode.com/cellular-automata/#example-73-object-oriented-game-of-life He escogido este referente porque la idea que tengo del proyecto es realizar una composición con mucho color que destaque, de una forma random, por lo tanto al igual que el el referente 1 puede servirme esta idea para llevarla a cabo ya sea de una forma u otra pero basándome a partir de estos dos ejercicios, en los que puedo coger una idea de cada o incluso unirlos.
+3 piezas de videos:
+  video 1: ORIGEN
+  video 2: EXPANSIÓN
+  video 3: MUTACIÓN
+
+Los referentes en los que me voy a inspirar para llevar a cabo la propuesta son sacados de la web NATURE OF CODE:
+  Ref_01: https://natureofcode.com/cellular-automata/#example-73-object-oriented-game-of-life . Este referente me interesa por cómo, a partir de un conjunto de células que siguen unas reglas sencillas, se generan patrones complejos y cambiantes. Cada célula modifica su estado dependiendo de las células que la rodean. USARIA: sistema de células, interacción entre elementos y la generación de patrones que evolucionan con el tiempo.
+  
+  Ref_02: https://natureofcode.com/physics-libraries/#example-610-collision-events . Este referente me interesa por cómo los elementos reaccionan cuando entran en contacto entre sí. La colisión deja de ser únicamente un movimiento físico y se convierte en un desencadenante de cambios visuales. USARIA: colisiones y la posibilidad de generar transformaciones visuales a partir del contacto.
+
+  Ref_03: https://natureofcode.com/physics-libraries/#example-615-attraction-and-repulsion-behaviors . Este referente me interesa por el comportamiento de las partículas, que se acercan o se alejan unas de otras mediante fuerzas de atracción y repulsión, generando movimientos y agrupaciones. USARIA: movimiento orgánico de las partículas, la formación de agrupaciones y la posibilidad de generar composiciones en constante reorganización.
